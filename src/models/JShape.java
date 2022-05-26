@@ -3,7 +3,7 @@ package models;
 import java.awt.*;
 
 /**
- * LShape.java:
+ * JShape.java:
  * Creates a JShaped tetronimo
  *
  * @author Om Patel
