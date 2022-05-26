@@ -34,5 +34,5 @@ Controls, Rules/Features, and Downloadable Game Instructions
 
 ---
                                             ---Contact---
-    Linkedin: https://www.linkedin.com/in/om-patel-6324061b5/
+    Linkedln: https://www.linkedin.com/in/om-patel-6324061b5/
     Email: patelom1022@gmail.com
