@@ -1,1 +1,1 @@
-Download this file to play.
+Download the .jar file to play.
